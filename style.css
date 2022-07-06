@@ -1,0 +1,16 @@
+#head{
+    background-color:cornflowerblue;
+    color: aliceblue;
+    font-style:unset;
+}
+#news{
+    background-color: black;
+    color: aliceblue;
+    background-size:100vw 100vh;
+}
+p{
+    font-style: italic;
+}
+#atp{
+    font-style: italic;
+}
