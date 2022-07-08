@@ -1,0 +1,57 @@
+#head{
+    background-color:cornflowerblue;
+    color: aliceblue;
+    font-style:unset;
+    text-align: center;
+}
+#news{
+    
+    background:black;
+    background-size:5px 20%;
+    color:white;
+    font-style: italic;
+}
+#college{
+    margin: 0px;
+}
+
+#atp{
+    font-style: italic;
+    font-size: smaller;
+    text-align: center;
+}
+#sub{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#roark{
+    font-size: 0.2cm;
+}
+#jnanabhumi{
+    width:100vw;
+    padding: 20px solid black;
+    margin-inline-start: 10px solid black;
+
+}
+#logo{
+    margin-left:40vw;
+    border: 15px;
+    padding: 10px solid black;
+}
+#college{
+    text-align:center;
+    
+}
+input{
+    text-align: center;
+    margin-left: 35vw;
+    
+    text-decoration-thickness: 50px;
+    
+}
+.get{
+    margin-left: 45vw;
+}
+
+
+
